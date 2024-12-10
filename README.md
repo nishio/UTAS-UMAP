@@ -1,6 +1,18 @@
 # UTAS-Polis / UTAS-UMAP
 
-![](utas-polis.png)![](utas-umap.png)
+## Visualization of Japanese Politicians' Opinion Distribution Using Polis (PCA)
+
+![](utas-polis.png)
+
+Left: Communist Party(共産党), Social Democratic Party(社民党), Reiwa Shinsengumi(れいわ新選組) / Right: Liberal Democratic Party(自民党)
+
+## Visualization of the Same Data Using UMAP
+
+![](utas-umap.png)
+
+Red on the left: Communist Party(共産党), Blue in the center: Liberal Democratic Party(自民党)
+
+## About this project
 
 This project attempts to visualize and analyze the opinion space using data collected from over 600 Japanese Diet members in the 2022 House of Representatives election, as provided by the UTAS dataset, employing methods such as Polis and UMAP.
 
